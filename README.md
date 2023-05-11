@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/pZFufk9i2w8AAAAC/purple-aesthetic.gif)
+![MasterHead](https://www.spglobal.com/esg/perspectives/transparency-matters-banner-1.gif)
 
 <h1 align="center">Hi 👋, I'm Sebastian Stovall</h1>
 <h3 align="center">A passionate full-stack developer from Wisconsin</h3>
