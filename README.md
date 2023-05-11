@@ -1,3 +1,5 @@
+![MasterHead](https://media.tenor.com/r77Sc4J25JMAAAAC/banner.gif)
+
 <h1 align="center">Hi 👋, I'm Sebastian Stovall</h1>
 <h3 align="center">A passionate full-stack developer from Wisconsin</h3>
 
