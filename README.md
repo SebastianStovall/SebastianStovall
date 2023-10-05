@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebastianstovall" alt="sebastianstovall" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, Python, Express, SQL**
+- 👨‍💻 I’m a recent App Academy Graduate that studied **Javascript, Python, Express, Flask, and SQL**
 
 - 📫 How to reach me **sebastianstovall@gmail.com**
+
+- 📄 Check out my resume here <a href="https://sebastianstovallportfolio.netlify.app/images/Sebastian%20Stovall%20Resume.pdf" target="_blank" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
